@@ -1,11 +1,13 @@
 # Examen 1ª Evaluación. Curso 2018-19. Fecha. 07/10/2018
 ## Módulo Programación. IES Fernando Wirtz Suárez.
-## Desenvolvemento de Aplicacións Multiplataforma modalidad Dual.
-## Desenvolvemento de Aplicacións Web modalidad Dual.
+Desenvolvemento de Aplicacións Multiplataforma modalidad Dual.
+
+Desenvolvemento de Aplicacións Web modalidad Dual.
 ## Profesor: 
 Alfonso Pereira
 ## Alumno/Autor: 
 Richard Daniel Oliva Denis. danielolivadenis@gmail.com
+
 Nota examen: 10.0
 
 ## Descripción del ejercicio:
